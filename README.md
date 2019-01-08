@@ -1,4 +1,4 @@
-= RP
+# RP H1
 Finds random pictures uploaded to a specific Host.
 
 == Disclaimer
