@@ -6,5 +6,5 @@ Finds random pictures uploaded to a specific Host.
 ![screenshot](https://snag.gy/I2Bhla.jpg)
 
 ## Disclaimer
-The pictures found by the program may have content of adult nature or private information. 
+The pictures found by the program may have content of adult nature or contain private information. 
 I am not responsible for such pictures or the malicious use of the private information you may find. 
