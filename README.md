@@ -1,5 +1,8 @@
 # RP
+[![version](https://img.shields.io/badge/version-1.0.1-yellow.svg)](https://semver.org)
+
 Finds random pictures uploaded to a specific Host.
+
 ![screenshot](https://snag.gy/I2Bhla.jpg)
 
 ## Disclaimer
